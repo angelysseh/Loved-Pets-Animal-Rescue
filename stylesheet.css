@@ -33,16 +33,6 @@ header nav a {
   color: #333;
 }
 
-.slideshow {
-  text-align: center;
-  margin: 20px 0;
-}
-
-.slideshow img {
-  width: 80%;
-  height: auto;
-  border: 1px solid #ddd;
-}
 
 .content {
   margin: 20px;
