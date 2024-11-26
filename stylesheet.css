@@ -15,10 +15,10 @@ header {
 }
 
 .background {
-  background-image: url("");
+  background-image: url("https://www.womansworld.com/wp-content/uploads/2024/08/cute-cats.jpg?quality=86&strip=all");
   background-color: var(--primary-color);
   color: var(--secondary-color);
-  padding: 3rem 1rem;
+  padding: 15rem 1rem;
   text-align: center;
 }
 
