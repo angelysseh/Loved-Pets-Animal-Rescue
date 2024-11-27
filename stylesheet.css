@@ -3,7 +3,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  background-color: #f5efeb
+  background-color: #f5efeb;
 }
 
 body {
@@ -16,7 +16,7 @@ header {
   justify-content: space-between;
   align-items: center;
   padding: 1em;
-  background-color: #EFE3DC;
+  background-color: #ece8d9;
 }
 
 .background {
