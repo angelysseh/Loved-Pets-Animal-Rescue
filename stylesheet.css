@@ -33,7 +33,47 @@ nav a {
   text-decoration: none;
   color: #333;
 }
+#services{
+  background-color: #ffffff;
+}
 
+h2 {
+  color: #40647a;
+}
+
+.service-card {
+    background-color: #f8f9fa;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    text-align: center;
+    transition: transform 0.3s ease;
+  }
+  
+  .service-card:hover {
+    transform: translateY(-10px);
+  }
+  
+  .service-card h3 {
+    color: #40647a;
+    font-size: 1.5rem;
+    margin-bottom: 15px;
+  }
+  
+  .service-card p {
+    color: #588baa;
+    font-size: 1rem;
+    margin-bottom: 20px;
+  }
+  
+  .service-card .btn-primary {
+    background-color: #40647a;
+    border: none;
+  }
+  
+  .service-card .btn-primary:hover {
+    background-color: #588baa;
+  }
 
 .content {
   display: grid;
