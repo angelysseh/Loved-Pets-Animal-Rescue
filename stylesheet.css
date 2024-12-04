@@ -19,6 +19,12 @@ header {
   background-color: #ece8d9;
 }
 
+header .logo{
+  height: 60px;
+  border-raidus: 10px;
+}
+
+
 .background {
   background-image: url("https://www.womansworld.com/wp-content/uploads/2024/08/cute-cats.jpg?quality=86&strip=all");
   background-color: var(--primary-color);
